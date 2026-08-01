@@ -4,9 +4,11 @@
 [submodule "web-apps"]
 	path = web-apps
 	url = https://github.com/mixinDennisBarzanoffMixin/web-apps.git
+	branch = main
 [submodule "sdkjs"]
 	path = sdkjs
 	url = https://github.com/mixinDennisBarzanoffMixin/sdkjs.git
+	branch = main
 [submodule "core-fonts"]
 	path = core-fonts
 	url = https://github.com/Euro-Office/core-fonts.git
